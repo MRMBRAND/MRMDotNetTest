@@ -31,7 +31,7 @@ You should be looking to demonstrate the following:
 * an understanding of the entity framework
 * code first migrations
 * seeding the database
-* API design
+* RESTful API design
 * application architecture and best practices
 * unit testing
 
