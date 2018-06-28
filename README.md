@@ -16,7 +16,7 @@ In this repository you will find a JSON file: `product.json` with some product d
 
 You will need to perform the following tasks:
 
-1. Create an ASP.Net application that uses the Entity Framework with code first migrations and a seed method that loads the products. 
+1. Create an ASP.Net or .Net Core application that uses the Entity Framework with code first migrations and a seed method that loads the products. 
 2. Create API endpoints that support the following operations:
    1. Retrieve all products
    2. Retrieve a list of categories
